@@ -2,7 +2,7 @@
 
 > help with migrating data from early version of ghost to current
 
-** IMPORTANT :- this is not production code! test before use in production. **
+**IMPORTANT :- this is not production code! test before use in production.**
 
 The reason that this repo is shared is to provide a starting point for migrating post and tag data from an early version of ghost to the current version of ghost.
 
